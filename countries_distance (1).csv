@@ -1,4 +1,4 @@
-Country;Distance_Non-EU
+geo;distance_non-eu
 Austria;1013,00
 Belgium;1755,00
 Bulgaria;0,00
@@ -31,3 +31,4 @@ Sweden;325,00
 Switzerland;370,00
 Slovenia;1045,00
 Slovakia;969,00
+
